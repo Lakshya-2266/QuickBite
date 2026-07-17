@@ -181,31 +181,15 @@ The project contains a normalized relational database consisting of approximatel
 
 ---
 
-# 📊 Entity Relationship Diagram
+## 📊 Entity Relationship Diagram
 
-> Add your ER Diagram screenshot here.
-
-```text
-images/ERD.png
-```
-
-```markdown
 ![ER Diagram](images/ERD.png)
-```
 
 ---
 
-# 🧩 Relational Schema
+## 🧩 Relational Schema
 
-> Add the relational schema image here.
-
-```text
-images/RelationalSchema.png
-```
-
-```markdown
 ![Relational Schema](images/RelationalSchema.png)
-```
 
 ---
 
